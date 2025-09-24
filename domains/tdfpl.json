@@ -1,0 +1,10 @@
+{
+  "description": "I'm a dev!",
+  "repo": "https://github.com/KrzysiekKropka/register",
+  "owner": {
+    "username": "KrzysiekKropka"
+  },
+  "record": {
+    "CNAME": "KrzysiekKropka.github.io"
+  }
+}
